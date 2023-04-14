@@ -9,6 +9,8 @@
 ![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanlob&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanLob&theme=tokyonight&layout=compact)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanLob&bg_color=452b73&color=000000&line=6a7baf&point=d6d6d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Linguagens
 
 <div style="display: inline_block"><br/>
@@ -16,3 +18,4 @@
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
+
