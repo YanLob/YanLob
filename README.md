@@ -10,6 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanLob&theme=tokyonight&layout=compact)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanLob&bg_color=242538&color=a6a6a6&line=5f6986&point=dedede&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</br>
 
 ## Linguagens
 
@@ -19,3 +20,9 @@
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
+## Discord
+
+<code>public string MyDiscord () {
+----return "yanS#9744";
+}</code>
+    
