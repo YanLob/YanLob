@@ -9,7 +9,7 @@
 ![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanlob&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanLob&theme=tokyonight&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanLob&bg_color=452b73&color=000000&line=6a7baf&point=d6d6d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanLob&bg_color=242538&color=a6a6a6&line=5f6986&point=dedede&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Linguagens
 
