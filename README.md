@@ -1,16 +1,18 @@
 
 ### Olá! Eu sou o Yan 🍎
 
+</hr>
+
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/fundamentos-de-programacao-com-java/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-lobato-487873272/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://media.discordapp.net/attachments/1005274164762005515/1096580013433835652/image.png?width=1253&height=683)
 
-[![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanlob&show_icons=true&theme=tokyonight)](https://github.com/YanLob)
+[![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanlob&show_icons=true&theme=tokyonight)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanLob&theme=tokyonight&layout=compact)](https://github.com/YanLob)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanLob&theme=tokyonight&layout=compact)](#)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanLob&bg_color=242538&color=a6a6a6&line=5f6986&point=dedede&area=true&hide_border=true)](https://github.com/YanLob)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanLob&bg_color=242538&color=a6a6a6&line=5f6986&point=dedede&area=true&hide_border=true)](#)
 </br>
 
 ## Linguagens
@@ -26,4 +28,7 @@
 <code>public string MyDiscord () {
 ----return "yanS#9744";
 }</code>
+
+</hr>
     
+<img  alt="lofi" src="https://static.tumblr.com/2b0ec5e7d4763b0cc6aaba6982be379c/tuvncqz/6Ntoco1nx/tumblr_static_tumblr_static_2i5cn6zq5qw4c8ocss0csokkc_focused_v3.gif"></img>
