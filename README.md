@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Yan 🍎
 
-</hr>
+<hr>
 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/fundamentos-de-programacao-com-java/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
@@ -18,9 +18,9 @@
 ## Linguagens
 
 <div style="display: inline_block"><br/>
-    <a href="#"><img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-    <a href="#"><img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
-    <a href="#"><img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    <a href="https://www.oracle.com/br/java/technologies/downloads/#jdk20-windows"><img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+    <a href="https://visualstudio.microsoft.com/pt-br/downloads/"><img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+    <a href="https://www.typescriptlang.org/download"><img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 </div>
 
 ## Discord
@@ -29,6 +29,6 @@
 ----return "yanS#9744";
 }</code>
 
-</hr>
+<hr>
     
 <img  alt="lofi" src="https://static.tumblr.com/2b0ec5e7d4763b0cc6aaba6982be379c/tuvncqz/6Ntoco1nx/tumblr_static_tumblr_static_2i5cn6zq5qw4c8ocss0csokkc_focused_v3.gif"></img>
