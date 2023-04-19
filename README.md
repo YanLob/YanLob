@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Yan 🍎
 
-<hr>
+</br>
 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/fundamentos-de-programacao-com-java/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
