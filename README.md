@@ -27,7 +27,5 @@
 <code>public string MyDiscord () {
 ----return "yanS#9744";
 }</code>
-
-<hr>
     
 <img  alt="lofi" src="https://static.tumblr.com/2b0ec5e7d4763b0cc6aaba6982be379c/tuvncqz/6Ntoco1nx/tumblr_static_tumblr_static_2i5cn6zq5qw4c8ocss0csokkc_focused_v3.gif"></img>
