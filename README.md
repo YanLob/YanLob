@@ -11,9 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanLob&theme=tokyonight&layout=compact)](#)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YanLob&bg_color=242538&color=a6a6a6&line=5f6986&point=dedede&area=true&hide_border=true)](#)
-</br>
-
 ## Linguagens
 
 <div style="display: inline_block"><br/>
