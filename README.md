@@ -18,11 +18,5 @@
     <a href="https://visualstudio.microsoft.com/pt-br/downloads/"><img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
     <a href="https://www.typescriptlang.org/download"><img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 </div>
-
-## Discord
-
-<code>public string MyDiscord () {
-----return "yanS#9744";
-}</code>
     
-<img  alt="lofi" src="https://static.tumblr.com/2b0ec5e7d4763b0cc6aaba6982be379c/tuvncqz/6Ntoco1nx/tumblr_static_tumblr_static_2i5cn6zq5qw4c8ocss0csokkc_focused_v3.gif"></img>
+
