@@ -19,4 +19,4 @@
     <a href="https://www.typescriptlang.org/download"><img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 </div>
     
-
+https://lattes.cnpq.br/2396191638461146
