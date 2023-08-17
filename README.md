@@ -18,5 +18,3 @@
     <a href="https://visualstudio.microsoft.com/pt-br/downloads/"><img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
     <a href="https://www.typescriptlang.org/download"><img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 </div>
-    
-https://lattes.cnpq.br/2396191638461146
