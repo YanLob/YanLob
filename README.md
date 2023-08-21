@@ -16,5 +16,4 @@
 <div style="display: inline_block"><br/>
     <a href="https://www.oracle.com/br/java/technologies/downloads/#jdk20-windows"><img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
     <a href="https://visualstudio.microsoft.com/pt-br/downloads/"><img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
-    <a href="https://www.typescriptlang.org/download"><img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 </div>
